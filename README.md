@@ -1,6 +1,6 @@
 # Text-Convertor
 
-- Text to Speech is Implemented by Vanila Js.
+- Text to Speech is Implemented by Vanilla Js.
 - With Responsive simple and Attractive UI.
 
 ## Screenshot Bellow 👇
